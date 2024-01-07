@@ -2,6 +2,11 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!;My+name+is+Sol;I'm+17+years+old;I'm+an+Argentinian+living+in+Portugal;I'm+an+IT+student+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=solcortezvel&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Sol Cortez github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solcortezvel&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+
+
  <div>
 <div align="center">
   <a href="https://beacons.ai/solcortezvel">
