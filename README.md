@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="MeuAvatar" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/1105081510542970954/1184819575217467433/ezgif.com-animated-gif-maker.gif?ex=658d5c37&is=657ae737&hm=70a29598a71fd697755e817c721a7104e1b855940218c6ceebb7f44f4f6ce4da&](https://discord.com/channels/@me/1105081510542970954/1189657474907771020)">
+  ![Alt Text]("C:\Users\AEMaximinos\Downloads\ezgif.com-gif-to-mp4-converted.gif")
 </div>
 
 ##
