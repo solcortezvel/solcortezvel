@@ -26,4 +26,4 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-3d-kitty-SBSdT89faJj0XbD9ai"></a></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunombre&layout=compact&theme=dark)
