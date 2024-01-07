@@ -6,13 +6,6 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=solcortezvel&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Sol Cortez github stats" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solcortezvel&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
 
-
- <div>
-<div align="center">
-  <a href="https://beacons.ai/solcortezvel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solcortezvel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaBarbosa1&layout=compact&langs_count=7&theme=dark"/>
-  </div>  
 <div style="display: inline_block"><br>
  #### Main Stack: &nbsp; <br><hr>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
