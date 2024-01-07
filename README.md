@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/solcortezvel/solcortezvel/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
  <div>
 <div align="center">
   <a href="https://beacons.ai/solcortezvel">
@@ -8,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaBarbosa1&layout=compact&langs_count=7&theme=dark"/>
   </div>  
 <div style="display: inline_block"><br>
- #### Main Stack:
+ #### Main Stack: &nbsp;
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
